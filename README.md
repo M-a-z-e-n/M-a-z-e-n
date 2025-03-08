@@ -57,8 +57,6 @@
 </div>
 
 ## 📢 Connect with Me
-
-- IEEE Fayoum AI Member 
 - Data Analysis & Generative AI Enthusiast
 - Open to Collaboration & Learning
 
