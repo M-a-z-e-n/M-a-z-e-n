@@ -1,44 +1,69 @@
-# Hey there! I'm Mazen Abd El-tawwab 🚀
+<div align="center">
+  <h1>👋 Hello, I'm Mazen Abd El-tawwab <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand" height="45" width="45" /></h1>
+  <h3>AI Enthusiast | Data Analyst | Aspiring Generative AI Expert</h3>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+</div>
 
-Welcome to my digital space! I'm a passionate **Computer Science & AI** student at **Fayoum University**, always on the lookout for innovative ways to apply technology in the real world.
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mazen-abd-el-tawwab)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mazen-io)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazen110.net@gmail.com)
+</div>
 
-## 🔥 Who Am I?
+## 🚀 Quick Overview
 
-- 👀 Tech Enthusiast | **Generative AI | Data Analysis | Machine Learning**
-- 🌱 Lifelong Learner | Currently diving into **ML, Deep Learning, Cloud Computing, and MLOps**
-- 💞️ Open to collaborations on **AI-driven projects, open-source contributions, and creative tech solutions**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **My journey started in a STEM high school, where project-based learning sparked my passion for AI and Data Science!**
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mazen-io&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mazen-io&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</div>
 
-## 🧠 What I Do
+## 🌟 About Me
 
-- 🤖 **Exploring AI & Generative Models** to push the boundaries of creativity and problem-solving
-- 📊 **Data Analysis & Visualization** (SQL | Power BI | Excel | Data Cleaning)
-- 📱 **Android App Development** (Kotlin | ViewBinding | Navigation)
-- 🎤 **Public Speaker & IEEE Volunteer** (AI Team Member at IEEE Fayoum Student Branch)
+- 🔭 **Currently Working On**:
+  - AI and Generative AI Projects
+  - Data Analysis & Visualization
+  - Machine Learning & Deep Learning Models
 
-## 🚀 Always Growing
+- 🌱 **Currently Learning**: 
+  - Advanced SQL, Python for Data Science
+  - Generative AI, LLMs, Deep Learning
+  - Cloud Computing for AI & Data Science
 
-I’m continuously leveling up my skills in:
+- 👨‍💻 **Portfolio**: Coming Soon
 
-- 🔬 **Advanced Machine Learning & AI**
-- 🧠 **Deep Learning & Large Language Models (LLMs)**
-- ☁️ **Cloud Computing & MLOps**
-- 📈 **Data Science & Big Data Technologies**
+## 💻 Tech Stack
 
-## 🎯 Goals
+### Programming Languages
+- ![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+- ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-- Build impactful AI-driven solutions 🤖
-- Contribute to open-source projects 🌍
-- Gain hands-on experience in real-world AI applications 💡
-- Share knowledge and mentor aspiring tech enthusiasts 👨‍🏫
+### Data & AI Tools
+- ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+- ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 🔗 Connect with Me
+### Development & Tools
+- ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- **LinkedIn**: [linkedin.com/in/mazen-abdel-tawwab](https://www.linkedin.com/in/mazen-abdel-tawwab/)
-- **GitHub**: [github.com/M-a-z-e-n](https://github.com/M-a-z-e-n/)
-- **Freelancing**: [Khamsat](https://khamsat.com/user/data_zen) | [Mostaql](https://mostaql.com/u/Data_Zen)
-- **Email**: [mazen110.net@gmail.com](mailto:mazen110.net@gmail.com)
+## 📊 GitHub Stats
 
-Let's collaborate and create something amazing! 🚀
+<div align="center">
+  <img width="59%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mazen-io&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages">
+</div>
 
+## 📢 Connect with Me
+
+- IEEE Fayoum AI Member 
+- Data Analysis & Generative AI Enthusiast
+- Open to Collaboration & Learning
+
+---
+<div align="center">
+  <h3>Thanks for visiting! 🚀</h3>
+  <p>Built with ❤️ by Mazen Abd El-tawwab</p>
+</div>
