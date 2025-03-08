@@ -53,7 +53,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="59%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mazen-io&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages">
+<img width="59%" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-a-z-e-n&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages">
 </div>
 
 ## 📢 Connect with Me
