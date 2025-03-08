@@ -14,8 +14,8 @@
 ## 🚀 Quick Overview
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mazen-io&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mazen-io&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=M-a-z-e-n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=M-a-z-e-n&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </div>
 
 ## 🌟 About Me
