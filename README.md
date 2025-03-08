@@ -28,8 +28,8 @@ I’m continuously leveling up my skills in:
 - Share knowledge and mentor aspiring tech enthusiasts 👨‍🏫
 
 ## 🔗 Connect with Me
-- **LinkedIn**: [linkedin.com/in/mazen-abd-el-tawwab](https://www.linkedin.com/in/mazen-abd-el-tawwab/)
-- **GitHub**: [github.com/Mazen-io](https://github.com/Mazen-io)
+- **LinkedIn**: [linkedin.com/in/mazen-abd-el-tawwab](www.linkedin.com/in/mazen-abdel-tawwab)
+- **GitHub**: [github.com/Mazen-io](https://github.com/M-a-z-e-n/)
 - **Freelancing**: [Khamsat](https://khamsat.com/user/Mazen-io) | [Mostaql](https://mostaql.com/u/Mazen-io)
 - **Email**: [mazen110.net@gmail.com](mailto:mazen110.net@gmail.com)
 
