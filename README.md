@@ -13,8 +13,7 @@ Welcome to my digital space! I'm a passionate **Computer Science & AI** student 
 - 🤖 **Exploring AI & Generative Models** to push the boundaries of creativity and problem-solving
 - 📊 **Data Analysis & Visualization** (SQL | Power BI | Excel | Data Cleaning)
 - 📱 **Android App Development** (Kotlin | ViewBinding | Navigation)
-- 🎤 **Public Speaker & IEEE Volunteer** (Technical Vice Chairperson at IEEE Fayoum Student Branch)
-
+- 🎤 Public Speaker & IEEE Volunteer (AI Team Member at IEEE Fayoum Student Branch)
 ## 🚀 Always Growing
 I’m continuously leveling up my skills in:
 - 🔬 **Advanced Machine Learning & AI**
