@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════ HEADER ══ -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:00C2FF&height=165&text=MAZEN%20ABDEL-TAWWAB&fontSize=42&fontColor=FFFFFF&fontAlign=72&fontAlignY=48&stroke=00C2FF&strokeWidth=2&desc=AI%20ENGINEER%20%2F%2F%20DATA%20SCIENTIST%20%2F%2F%20ML%20BUILDER&descSize=15&descColor=E0F7FF&descAlign=70&descAlignY=68" alt="Mazen Abdel-Tawwab" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:0A2342,70:0A3D62,100:00C2FF&height=200&section=header&text=Mazen%20Abdel-Tawwab&fontSize=46&fontColor=FFFFFF&fontAlign=50&fontAlignY=42&stroke=00C2FF&strokeWidth=2&desc=AI%20Engineer%20%E2%80%A2%20Data%20Scientist%20%E2%80%A2%20ML%20Builder&descAlignY=60&descAlign=50&descSize=18&descColor=A8D8F0" alt="Mazen Abdel-Tawwab" />
 
 <br/>
 
@@ -206,14 +206,22 @@ print(me)
 
 ---
 
-## `> ./snake.sh`
+## `> watch -n 86400 ./neural-commit-tracker.py`
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│  PROCESS : neural-commit-tracker v2.4.1                                     │
+│  STATUS  : ● LIVE   AUTO-REFRESH: 24h   MODE: DARK   RENDERER: SVG          │
+│  TARGET  : github.com/M-a-z-e-n · Mapping contribution matrix → snake path  │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-a-z-e-n/M-a-z-e-n/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-a-z-e-n/M-a-z-e-n/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/M-a-z-e-n/M-a-z-e-n/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/M-a-z-e-n/M-a-z-e-n/output/github-contribution-grid-snake-dark.svg" width="98%" />
 </picture>
 
 </div>
