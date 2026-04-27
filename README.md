@@ -207,7 +207,7 @@ print(me)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-a-z-e-n/M-a-z-e-n/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-a-z-e-n/M-a-z-e-n/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/M-a-z-e-n/M-a-z-e-n/output/github-contribution-grid-snake-dark.svg" width="98%" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/M-a-z-e-n/M-a-z-e-n/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
