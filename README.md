@@ -63,9 +63,9 @@
 ```python
 class MazenAbdelTawwab:
     def __init__(self):
-        self.role    = ["AI Engineer", "Data Scientist", "ML Builder"]
-        self.focus   = ["LLMs", "Deep Learning", "NLP", "Computer Vision"]
-        self.stack   = ["Python", "PyTorch", "TensorFlow", "SQL", "Kotlin", "C++"]
+        self.role = ["AI Engineer", "Data Scientist", "ML Builder"]
+        self.focus = ["LLMs", "Deep Learning", "NLP", "Computer Vision"]
+        self.stack = ["Python", "PyTorch", "TensorFlow", "SQL", "Kotlin", "C++"]
         self.mission = "Bridge the gap between research and production."
 
     def __str__(self):
