@@ -86,7 +86,6 @@ print(me)
 |-----|-------|
 | **Domains** | Machine Learning · Generative AI · NLP · Computer Vision · Analytics |
 | **Current Focus** | LLM applications · Deep learning pipelines · Production ML workflows |
-| **Location** | Egypt 🇪🇬 |
 | **Mission** | Bridge the gap between experimentation and deployment |
 
 ---
