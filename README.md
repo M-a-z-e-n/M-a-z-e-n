@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════ HEADER ══ -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,50:0A2342,100:00C2FF&height=220&text=MAZEN%20ABDEL-TAWWAB&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=52&stroke=00C2FF&strokeWidth=2&desc=AI%20ENGINEER%20%2F%2F%20DATA%20SCIENTIST%20%2F%2F%20ML%20BUILDER&descSize=16&descColor=A8D8F0&descAlignY=72" alt="Mazen Abdel-Tawwab" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,100:00C2FF&height=165&text=MAZEN%20ABDEL-TAWWAB&fontSize=42&fontColor=FFFFFF&fontAlign=72&fontAlignY=48&stroke=00C2FF&strokeWidth=2&desc=AI%20ENGINEER%20%2F%2F%20DATA%20SCIENTIST%20%2F%2F%20ML%20BUILDER&descSize=15&descColor=E0F7FF&descAlign=70&descAlignY=68" alt="Mazen Abdel-Tawwab" />
 
 <br/>
 
@@ -29,14 +29,19 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════ STATS ══ -->
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=M-a-z-e-n&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=A8D8F0&border_color=0A3D62&count_private=true" alt="GitHub Stats" />
-<img height="175em" src="https://github-readme-streak-stats.herokuapp.com/?user=M-a-z-e-n&theme=tokyonight&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=A8D8F0&sideLabels=A8D8F0&dates=555555&border=0A3D62" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-a-z-e-n&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00C2FF&text_color=A8D8F0&border_color=0A3D62&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=M-a-z-e-n&show_icons=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=A8D8F0&border_color=0A3D62&hide_border=false&count_private=true&rank_icon=github" height="170" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-a-z-e-n&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=A8D8F0&dates=555555&border=0A3D62&stroke=0A3D62&sideNums=FFFFFF&currStreakNum=FFFFFF" height="170" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-a-z-e-n&layout=compact&bg_color=0D1117&title_color=00C2FF&text_color=A8D8F0&border_color=0A3D62&langs_count=6&hide=c,cmake,makefile,shell,batchfile" height="170" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -44,8 +49,8 @@
 
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════ TROPHIES ══ -->
-<img src="https://github-profile-trophy.vercel.app/?username=M-a-z-e-n&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+<!-- ══════════════════════════════════ CONTRIBUTION TIMELINE ══ -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-a-z-e-n&theme=github_dark" width="95%" alt="Contribution Timeline" />
 
 </div>
 
@@ -177,16 +182,16 @@ print(me)
 ## `> cat focus_areas.txt`
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  DOMAIN                          STATUS                          ║
-╠══════════════════════════════════════════════════════════════════╣
-║  AI / LLM Applications           ████████████████████  [ LIVE ]  ║
-║  NLP & Representation Learning   ███████████████████   [ LIVE ]  ║
-║  Computer Vision Pipelines       ████████████████      [ LIVE ]  ║
-║  Predictive Modeling             ███████████████████   [ LIVE ]  ║
-║  Analytics Engineering           ████████████          [ BUILD ] ║
-║  Interactive BI Dashboards       █████████████         [ BUILD ] ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════╗
+║  DOMAIN                     PROFICIENCY         LOAD   STATUS           ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  AI / LLM Applications      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░   95%   [ LIVE ]   ║
+║  NLP & Representation       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   90%   [ LIVE ]   ║
+║  Computer Vision            ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░   80%   [ LIVE ]   ║
+║  Predictive Modeling        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░   90%   [ LIVE ]   ║
+║  Analytics Engineering      ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   60%   [ BUILD ]  ║
+║  Interactive BI              ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░   65%   [ BUILD ]  ║
+╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
