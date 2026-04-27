@@ -91,19 +91,6 @@ print(me)
 
 ---
 
-## `> ls currently_building/`
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  PROJECT                     STACK                    STATUS    │
-├─────────────────────────────────────────────────────────────────┤
-│  🧠 LLM Fine-tuning Pipeline  Python · HuggingFace · LoRA  🔄  │
-│  👁️  CV Object Detection       PyTorch · YOLO · OpenCV      🔄  │
-│  📊 End-to-End ML Platform    FastAPI · Docker · MLflow     🔬  │
-└─────────────────────────────────────────────────────────────────┘
-```
-
----
 
 ## `> import tech_stack`
 
