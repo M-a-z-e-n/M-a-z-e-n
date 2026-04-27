@@ -17,13 +17,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate Snake SVG
-        uses: Platane/snk@v3
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          github_user_name: M-a-z-e-n
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate Snake SVG
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: M-a-z-e-n
+          OUTPUT_LIGHT: dist/github-contribution-grid-snake.svg
+          OUTPUT_DARK: dist/github-contribution-grid-snake-dark.svg
+        run: python generate_snake.py
 
       - name: Push output to `output` branch
         uses: crazy-max/ghaction-github-pages@v4
