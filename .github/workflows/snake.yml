@@ -27,8 +27,8 @@ jobs:
 
       - name: Remove progress bar from SVG
         run: |
-          sed -i 's/<rect class="u u0"[^>]*\/>//g' dist/github-contribution-grid-snake.svg
-          sed -i 's/<rect class="u u0"[^>]*\/>//g' dist/github-contribution-grid-snake-dark.svg
+          sudo sed -i 's/<rect class="u u0"[^>]*\/>//g' dist/github-contribution-grid-snake.svg
+          sudo sed -i 's/<rect class="u u0"[^>]*\/>//g' dist/github-contribution-grid-snake-dark.svg
 
       - name: Push output to `output` branch
         uses: crazy-max/ghaction-github-pages@v4
