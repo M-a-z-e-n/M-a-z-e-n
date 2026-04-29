@@ -35,8 +35,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=M-a-z-e-n&show_icons=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=A8D8F0&border_color=0A3D62&hide_border=false&count_private=true&rank_icon=github" height="170" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-a-z-e-n&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF&sideLabels=A8D8F0&dates=555555&border=0A3D62&stroke=0A3D62&sideNums=FFFFFF&currStreakNum=FFFFFF" height="170" alt="GitHub Streak" />
-    </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-a-z-e-n&layout=compact&bg_color=0D1117&title_color=00C2FF&text_color=A8D8F0&border_color=0A3D62&langs_count=6&hide=c,cmake,makefile,shell,batchfile" height="170" alt="Top Languages" />
     </td>
