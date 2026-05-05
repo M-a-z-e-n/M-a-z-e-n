@@ -28,25 +28,6 @@
 
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════ STATS ══ -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=M-a-z-e-n&show_icons=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=A8D8F0&border_color=0A3D62&hide_border=false&count_private=true&rank_icon=github" height="170" alt="GitHub Stats" />
-    </td>
-    <td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-a-z-e-n&layout=compact&bg_color=0D1117&title_color=00C2FF&text_color=A8D8F0&border_color=0A3D62&langs_count=6&hide=c,cmake,makefile,shell,batchfile" height="170" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
 <!-- ══════════════════════════════════ CONTRIBUTION TIMELINE ══ -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-a-z-e-n&theme=github_dark" width="95%" alt="Contribution Timeline" />
 
